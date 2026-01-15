@@ -85,6 +85,8 @@ C:\Users\YourName\Projects\my-game
 
 ![Screenshot: Devvit Project Path field filled in](_screenshots/gamemaker-devvit-path.png)
 
+Also set the **Devvit Project Id** to the name of your Devvit project.
+
 Click **OK** or **Apply** to save your settings.
 
 #### Step 4: Verify GameMaker Export Settings
